@@ -1,0 +1,16 @@
+{
+  "name": "explorador",
+  "owner": {
+    "name": "Chamete"
+  },
+  "metadata": {
+    "description": "Marketplace del mod Explorador para Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "explorador",
+      "source": "./",
+      "description": "Árbol de archivos del proyecto para Claude Code: lo que Claude lee respira en azul, lo que escribe en naranja, y vista previa de Markdown y código."
+    }
+  ]
+}

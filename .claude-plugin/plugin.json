@@ -1,0 +1,11 @@
+{
+  "name": "explorador",
+  "version": "0.1.0",
+  "description": "Árbol de archivos del proyecto con lecturas en azul y escrituras en naranja (respirando), y vista previa de Markdown y código.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Chamete",
+    "url": "https://github.com/Chamete"
+  },
+  "homepage": "https://github.com/Chamete/explorador"
+}
