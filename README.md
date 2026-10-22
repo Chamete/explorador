@@ -135,3 +135,7 @@ claude plugin test .
 ## Autor
 
 Hecho por [Chamete](https://github.com/Chamete) con Claude Code.
+
+## Licencia
+
+[MIT](LICENSE).
